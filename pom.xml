@@ -69,9 +69,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>3.2.6</version>
-				<configuration>
-					<mainClass>PicpayApplication</mainClass>
-				</configuration>
+				
 			</plugin>
 		</plugins>
 	</build>
