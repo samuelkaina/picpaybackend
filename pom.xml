@@ -68,6 +68,9 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<mainClass>com.example.PicpayApplication</mainClass>
+				</configuration>
 				<version>3.2.6</version>
 				
 			</plugin>
